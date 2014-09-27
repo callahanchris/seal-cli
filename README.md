@@ -4,14 +4,20 @@ Text your friends lyrics by and facts about the musical artist Seal from the com
 
 * Clone this repo
 
-    git clone git@github.com:callahanchris/seal-cli.git
+```
+git clone git@github.com:callahanchris/seal-cli.git
+```
 
 * Install gem dependencies
 
-    bundle install
+```
+bundle install
+```
 
 * Open the app
 
-    bin/seal
+```
+bin/seal
+```
 
 Then follow the instructions to text your friends everything Seal!
